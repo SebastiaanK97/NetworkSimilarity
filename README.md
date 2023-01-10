@@ -14,7 +14,7 @@ The files Milvus2.ipynb and classifier_metrics.ipynb are key to the research. Th
 
 ### Dependencies
 
-* Python 3.10
+* Python 3.10 (https://www.python.org)
 * Milvus 2.0 (https://milvus.io)
 * Docker 20.1 (https://www.docker.com)
 * Neo4j 4.4.8 (https://neo4j.com)

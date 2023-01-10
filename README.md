@@ -2,6 +2,8 @@
 
 Approximate Nearest Neighbour Search & Similarity Graph Analysis for Detecting Fraudulent Transactions
 
+An explanatory logistic regression model for statistical prediction to classify fraudulent credit card transactions & statistical inference to estimate the effect of model parameters on fraudulent behaviour within credit card transactions.
+
 *How do fraudulent and legitimate transactions contradict in network structure?*
 
 ## Description
